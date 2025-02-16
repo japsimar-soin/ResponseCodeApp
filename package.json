@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "array-move": "^4.0.0",
     "axios": "^1.7.9",
     "firebase": "^11.3.1",
     "next": "15.1.7",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-sortablejs": "^6.1.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
